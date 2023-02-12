@@ -1,0 +1,3 @@
+dem sym(args)
+
+end
